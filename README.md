@@ -1,7 +1,5 @@
 # Scholarships/ Internships for High School Girls in STEM
 
-## Scholarships
-
 ## STEM Summer Programs 
 
 [Science Ambassador Scholarship by Cards Against Humanity](https://www.scienceambassadorscholarship.org)  (opens in Fall)
@@ -18,15 +16,30 @@
 
 [NASA Internships and Fellowships](https://intern.nasa.gov/)
 
+[Technovation Girls](https://technovationchallenge.org/)
+
+[HerLead Fellowships](https://herlead.vitalvoices.org/)
+
+[Kode with Klossy](https://www.kodewithklossy.com/program)
+
+[WISCI Girls STEAM Camp](https://www.girlup.org/wisci/#sthash.WYI2uW4D.5ABmj0n8.dpbs)
+
+
 
 ## STEM Scholarships for Girls
-https://www.palantir.com/students/scholarship/wit-north-america/
+
+[Palantir](https://www.palantir.com/students/scholarship/wit-north-america/)
+
+[Apple Tech Conference WWDC19 Scholarships](https://developer.apple.com/wwdc19/scholarships/)
+
 
 ## General Scholarships
 
 [Alpha kappa Alpha College Scholarships](https://akaeaf.org/scholarships)
 
 [Tuskegee Airmen Scholarship](https://www.taisf.org/)
+
+[Scholarship Junkies](https://www.scholarshipjunkies.org/)
 
 
 ## Schools that offer free Tution
