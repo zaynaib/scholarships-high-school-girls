@@ -44,3 +44,8 @@
 
 ## Schools that offer free Tution
 
+If any of their families make under 60k they can attend just about any ivy league school for free!
+They just have to get accepted. 
+
+## Books for reference
+[The Ultimate Scholarship Book 2019](https://www.amazon.com/Ultimate-Scholarship-Book-2019-Scholarships/dp/1617601306/ref=sr_1_4?crid=3OD5EBXNC5257&keywords=scholarship+book+2020&qid=1565616596&s=gateway&sprefix=scholar%2Caps%2C168&sr=8-4)
