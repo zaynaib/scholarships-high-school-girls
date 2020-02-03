@@ -32,6 +32,8 @@
 
 [Apple Tech Conference WWDC19 Scholarships](https://developer.apple.com/wwdc19/scholarships/)
 
+[Stirs Scholarship](https://stirscholarship.org/)
+
 
 ## General Scholarships
 
